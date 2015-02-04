@@ -1,3 +1,3 @@
-learngit
-hello git
+learngit\n
+hello git\n
 i like  it
