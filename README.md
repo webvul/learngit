@@ -3,3 +3,4 @@ hello  git
 git branch  
 :wq
 create a new branch is quick and  simple
+hello hello
