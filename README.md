@@ -1,4 +1,3 @@
-learngit
-hello git
-i like  it
-fuck svn
+学习git
+hello  git
+
